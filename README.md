@@ -1,1 +1,2 @@
 Google Sheets Project Pitch
+Fundraising is a crucial piece of running a successful campaign for political office. New York state is having primary elections for state assembly and state senate members this year. How much have the various candidates in Brooklyn raised as of now? Have incumbents raised more than primary challengers? What is the average/median donation size? And how many total donations has each candidate gotten? I’ll have to pull this data from the New York State Board of Elections website and chart it.
